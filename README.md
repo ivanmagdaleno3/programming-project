@@ -1,4 +1,4 @@
-#programming project #1: name?
+#programming project #1: tik tac to
 GUI image #1
 GUI image #2
 HUI image #3
