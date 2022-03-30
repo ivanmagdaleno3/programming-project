@@ -4,7 +4,8 @@ group members ![qiuz start]()
 
 ## GUI image #1 (start screen)
 
-![Start Screen](https://user-images.githubusercontent.com/101122303/160848471-d2246fd7-0b65-49ad-be6a-2aebc8102462.png)
+![Start Screen]![SNAKE](https://user-images.githubusercontent.com/101122303/160923828-c9264bb0-e39b-4501-9aa9-c648c66a8d34.png)
+
 
 ## GUI image #2 (gameplay)
 
