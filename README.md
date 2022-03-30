@@ -1,9 +1,9 @@
-# programming project #1: tik tac to
+# programming project #1: quiz me
 descriptiom of the project in detail
-group members ![qiuz start](https://user-images.githubusercontent.com/101122303/160848471-d2246fd7-0b65-49ad-be6a-2aebc8102462.png)
+group members ![qiuz start]()
 
 ## GUI image #1 (start screen)
-![Start Screen]()
+![Start Screen](https://user-images.githubusercontent.com/101122303/160848471-d2246fd7-0b65-49ad-be6a-2aebc8102462.png)
 
 ## GUI image #2 (gameplay)
 ## HUI image #3 (End of game)
